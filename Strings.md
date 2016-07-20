@@ -11,7 +11,7 @@
 * [How to compare performance of string creation ?](#How to compare performance of string creation ?)
 * [How to optimize string creation ?](#How to optimize string creation ?)
 * [How to format strings ?](#How to format strings ?)
-* [How to optimize string concatenation ?](#How to optimize string concatenation ?)
+* [How to optimize string concatenation ?](#how-to-optimize-string-concatenation)
 * [How to determine the Unicode code point in string](#how-to-determine-the-unicode-code-point-in-string)
 * [How to buffer strings](#how-to-buffer-strings)
 
