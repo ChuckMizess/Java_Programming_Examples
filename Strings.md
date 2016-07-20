@@ -13,8 +13,7 @@
 * [How to format strings ?](#How to format strings ?)
 * [How to optimize string concatenation ?](#How to optimize string concatenation ?)
 * [How to determine the Unicode code point in string ?](#How to determine the Unicode code point in string ?)
-* [How to buffer strings ?](#how to buffer strings ?)
-* [Alimjan](#Alimjan)
+* [How to buffer strings ?](#How-to-buffer-strings?)
 
 ### How to compare two strings
 ```
@@ -304,9 +303,6 @@ public class StringBuffer{
    }
 }
 ```
-
-### Alimjan
-My Name is alimjan.
 
 
 
