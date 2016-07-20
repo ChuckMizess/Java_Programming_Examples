@@ -11,10 +11,9 @@
 * [How to compare performance of string creation ?](#How to compare performance of string creation ?)
 * [How to optimize string creation ?](#How to optimize string creation ?)
 * [How to format strings ?](#How to format strings ?)
-* [123](#123)
 * [How to optimize string concatenation ?](#How to optimize string concatenation ?)
 * [How to determine the Unicode code point in string ?](#How to determine the Unicode code point in string ?)
-* [How to buffer strings ?](#How to buffer strings ?)
+* [How to buffer strings ?](#Buffer)
 
 ### How to compare two strings
 ```
@@ -101,18 +100,6 @@ public class SearchStringEmp{
    }
 }
 ```
-
-##123
-fdsafdsafdsavew vew ads vdsa vdsa vdsa v dsav dsavwe 
-vdsav ds
-a
-v dsa
- v
- sdav
- ds
- av
- dsa
- vwe
 
 ### How to split a string into a number of substrings ?
 ```
@@ -293,7 +280,8 @@ public class StringUniCode{
 }
 ```
 
-### How to buffer strings ?
+###Buffer
+###How to buffer strings ?
 ```
 public class StringBuffer{
    public static void main(String[] args) {
