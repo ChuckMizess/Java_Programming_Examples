@@ -2,7 +2,7 @@
 * [How to compare two strings ?](#How to compare two strings)
 * [How to search the last position of a substring ?](#How to search the last position of a substring ?)
 
-## How to compare two strings
+### How to compare two strings
     public class StringCompareEmp{
        public static void main(String args[]){
           String str = "Hello World";
@@ -14,7 +14,7 @@
        }
     }
     
-## How to search the last position of a substring ?
+### How to search the last position of a substring ?
     public class SearchlastString {
     public static void main(String[] args) {
        String strOrig = "Hello world ,Hello Reader";
@@ -26,4 +26,4 @@
           is at index "+ lastIndex);
        }
     }
- }
+   }
