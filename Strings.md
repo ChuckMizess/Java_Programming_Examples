@@ -1,4 +1,4 @@
-## Strings
+## Index
 * [How to compare two strings ?](#How to compare two strings)
 * [How to search the last position of a substring ?](#How to search the last position of a substring ?)
 * [How to remove a particular character from a string ?](#How to remove a particular character from a string ?)
