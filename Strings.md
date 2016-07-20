@@ -1,16 +1,16 @@
 ### Strings
-* [How to compare two strings ?](#How to compare two strings)
-* [How to search the last position of a substring ?](#How to search the last position of a substring ?)
-* [How to remove a particular character from a string ?](#How to remove a particular character from a string ?)
-* [How to replace a substring inside a string by another one ?](#How to replace a substring inside a string by another one ?)
-* [How to reverse a String?](#How to reverse a String?)
-* [How to search a word inside a string ?](#How to search a word inside a string ?)
-* [How to split a string into a number of substrings ?](#How to split a string into a number of substrings ?)
-* [How to convert a string totally into upper case?](#How to convert a string totally into upper case?)
-* [How to match regions in strings?](#How to match regions in strings?)
-* [How to compare performance of string creation ?](#How to compare performance of string creation ?)
-* [How to optimize string creation ?](#How to optimize string creation ?)
-* [How to format strings ?](#How to format strings ?)
+* [How to compare two strings](#how-to-compare-two-strings)
+* [How to search the last position of a substring](#how-to-search-the-last-position-of-a-substring)
+* [How to remove a particular character from a string](#how-to-remove-a-particular-character-from-a-string)
+* [How to replace a substring inside a string by another one](#how-to-replace-a-substring-inside-a-string-by-another-one)
+* [How to reverse a String](#how-to-reverse-a-String)
+* [How to search a word inside a string](#how-to-search-a-word-inside-a-string)
+* [How to split a string into a number of substrings](#how-to-split-a-string-into-a-number-of-substrings)
+* [How to convert a string totally into upper case](#how-to-convert-a-string-totally-into-upper-case)
+* [How to match regions in strings](#how-to-match-regions-in-strings)
+* [How to compare performance of string creation](#how-to-compare-performance-of-string-creation)
+* [How to optimize string creation](#how-to-optimize-string-creation)
+* [How to format strings](#how-to-format-strings)
 * [How to optimize string concatenation](#how-to-optimize-string-concatenation)
 * [How to determine the Unicode code point in string](#how-to-determine-the-unicode-code-point-in-string)
 * [How to buffer strings](#how-to-buffer-strings)
@@ -29,7 +29,7 @@ public class StringCompareEmp{
 }
 ```
     
-### How to search the last position of a substring ?
+### How to search the last position of a substring
 ```
 public class SearchlastString {
   public static void main(String[] args) {
@@ -45,7 +45,7 @@ public class SearchlastString {
 }
 ```
 
-### How to remove a particular character from a string ?
+### How to remove a particular character from a string
 ```
 public class Main {
    public static void main(String args[]) {
@@ -58,7 +58,7 @@ public class Main {
 }
 ```
 
-### How to replace a substring inside a string by another one ?
+### How to replace a substring inside a string by another one
 ```
 public class StringReplaceEmp{
    public static void main(String args[]){
@@ -70,7 +70,7 @@ public class StringReplaceEmp{
 }
 ```
 
-### How to reverse a String?
+### How to reverse a String
 ```
 public class StringReverseExample{
    public static void main(String[] args){
@@ -85,7 +85,7 @@ public class StringReverseExample{
 }
 ```
 
-### How to search a word inside a string ?
+### How to search a word inside a string
 ```
 public class SearchStringEmp{
    public static void main(String[] args) {
@@ -101,7 +101,7 @@ public class SearchStringEmp{
 }
 ```
 
-### How to split a string into a number of substrings ?
+### How to split a string into a number of substrings
 ```
 public class JavaStringSplitEmp{
    public static void main(String args[]){
@@ -128,7 +128,7 @@ public class JavaStringSplitEmp{
 }
 ```
 
-### How to convert a string totally into upper case?
+### How to convert a string totally into upper case
 ```
 public class StringToUpperCaseEmp {
    public static void main(String[] args) {
@@ -141,7 +141,7 @@ public class StringToUpperCaseEmp {
 }
 ```
 
-### How to match regions in strings?
+### How to match regions in strings
 ```
 public class StringRegionMatch{
    public static void main(String[] args){
@@ -155,7 +155,7 @@ public class StringRegionMatch{
 }
 ```
 
-### How to compare performance of string creation ?
+### How to compare performance of string creation
 ```
 public class StringComparePerformance{
    public static void main(String[] args){      
@@ -181,7 +181,7 @@ public class StringComparePerformance{
 }
 ```
 
-### How to optimize string creation ?
+### How to optimize string creation
 ```
 public class StringOptimization{
    public static void main(String[] args){
@@ -220,7 +220,7 @@ public class StringOptimization{
 }
 ```
 
-### How to format strings ?
+### How to format strings
 ```
 import java.util.*;
 
