@@ -15,4 +15,4 @@
 * [Apples](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Applets.md)
 * [Simple GUI](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Simple_GUI.md)
 * [JDBC](https://github.com/maninwindow/Java_Programming_Examples/blob/master/JDBC.MD)
-* [rEGULAR eXPRESSION](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Regular_Expression.md)
+* [Regular Expression](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Regular_Expression.md)
