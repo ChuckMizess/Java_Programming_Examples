@@ -1,7 +1,6 @@
 ### Arrays
 * [How to sort an array and search an element inside it](#how-to-sort-an-array-and-search-an-element-inside-it)
-* [How to sort an array and insert an element inside it](how-to-sort-an-array-and-insert-an-element-inside -it)
-* 
+* [How to sort an array and insert an element inside it](#how-to-sort-an-array-and-insert-an-element-inside -it)
 
 
 ### How to sort an array and search an element inside it?
