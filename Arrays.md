@@ -30,7 +30,7 @@ public class MainClass {
 }
 ```
 
-### How to determine the upper bound of a two dimensional array
+### How to sort an array and insert an element inside it?
 Following example shows how to use sort () method and user defined method insertElement ()to accomplish the task.
 ```
 import java.util.Arrays;
