@@ -2,7 +2,7 @@
 
 ###Index
 * [Strings](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Strings.md)
-* [Strings](./Strings/Strings.md)
+* [Strings](./Strings/Strings.html)
 * [Arrays](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Arrays.md)
 * [Data Times](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Data_Time.md)
 * [Methods](https://github.com/maninwindow/Java_Programming_Examples/blob/master/Methods.md)
